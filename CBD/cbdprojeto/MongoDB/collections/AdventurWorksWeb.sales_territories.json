@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d0"
+  },
+  "salesTerritoryID": 1,
+  "salesTerritoryRegion": "Australia",
+  "countryID": 1
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d1"
+  },
+  "salesTerritoryID": 2,
+  "salesTerritoryRegion": "Canada",
+  "countryID": 2
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d2"
+  },
+  "salesTerritoryID": 3,
+  "salesTerritoryRegion": "Central",
+  "countryID": 6
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d3"
+  },
+  "salesTerritoryID": 4,
+  "salesTerritoryRegion": "France",
+  "countryID": 3
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d4"
+  },
+  "salesTerritoryID": 5,
+  "salesTerritoryRegion": "Germany",
+  "countryID": 4
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d5"
+  },
+  "salesTerritoryID": 6,
+  "salesTerritoryRegion": "Northeast",
+  "countryID": 6
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d6"
+  },
+  "salesTerritoryID": 7,
+  "salesTerritoryRegion": "Northwest",
+  "countryID": 6
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d7"
+  },
+  "salesTerritoryID": 8,
+  "salesTerritoryRegion": "Southeast",
+  "countryID": 6
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d8"
+  },
+  "salesTerritoryID": 9,
+  "salesTerritoryRegion": "Southwest",
+  "countryID": 6
+},
+{
+  "_id": {
+    "$oid": "678ae1cf6a1f07da871582d9"
+  },
+  "salesTerritoryID": 10,
+  "salesTerritoryRegion": "United Kingdom",
+  "countryID": 5
+}]

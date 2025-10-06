@@ -1,0 +1,104 @@
+/*
+STYLESHEET FOR SMARTGRAPH VISUALIZATION.
+
+For your customization, please see:
+https://openjfx.io/javadoc/19/javafx.graphics/javafx/scene/doc-files/cssref.html
+
+And know that:
+- The drawing area itself is of type Pane, which is an extension of Region;
+- A vertex is of type Shape;
+- The edges are of type Line and CubicLine;
+- The labels are of type Text, and;
+- The arrows are of type Path.
+
+This should help you understand which styles you can apply.
+*/
+
+.graph {
+    -fx-background-color: #F4FFFB;
+    /* you can use -fx-background-image to set a background image */
+    -fx-background-image: url('../images/map.png');
+}
+
+.vertex {
+    -fx-stroke-width: 1;
+    -fx-stroke: #61B5F1;
+    -fx-stroke-type: outside; /* you should keep this if using arrows */
+    -fx-fill: #B1DFF7;
+}
+
+.vertex:hover { /* pseudo-classes also work */
+    /*-fx-cursor: default; */ /* You can use this style to override the hand/move cursors while hovering. */
+    -fx-stroke-width: 3;
+}
+
+.vertex-label {
+    -fx-font: bold 6pt "sans-serif";
+}
+
+.vertex-start {
+    -fx-stroke: orange;
+    -fx-stroke-width: 3;
+    -fx-fill: #B1DFF7;
+}
+
+.edge {
+    -fx-stroke-width: 2;
+    -fx-stroke: #FF6D66;  
+    -fx-stroke-dash-array: 2 5 2 5; /* remove for clean lines */
+    -fx-fill: transparent; /* important to keep for curved edges */
+    -fx-stroke-line-cap: round;
+    -fx-opacity: 0.8;
+}
+
+.edge-train {
+    -fx-stroke: blue;
+    -fx-stroke-width: 3;
+}
+
+.edge-bus {
+    -fx-stroke: yellow;
+    -fx-stroke-width: 3;
+}
+
+.edge-boat {
+    -fx-stroke: green;
+    -fx-stroke-width: 3;
+}
+
+.edge-walk {
+    -fx-stroke: teal;
+    -fx-stroke-width: 3;
+}
+
+.edge-bicycle {
+    -fx-stroke: magenta;
+    -fx-stroke-width: 3;
+}
+
+.edge-disabled {
+    -fx-stroke: gray;
+    -fx-stroke-width: 3;
+}
+
+.edge-transport-disabled {
+    -fx-stroke: lightgray;
+    -fx-stroke-width: 3;
+}
+
+.edge:hover {
+    -fx-stroke-width: 3;
+}
+
+.edge-label {
+    -fx-font: normal 6pt "sans-serif";
+}
+
+/* Since version 2.0.0-rc2 this style is cumulatively applied to arrows, after the "edge" class.
+ * Use to, e.g., to remove the dash effect (that will not look good in arrows).
+ * Afterwards, styles applied to the edges are propagated to the respective arrows. You can, however, apply
+ * specific styles to the arrows programmatically. See example programs.
+ */
+.arrow {
+    -fx-stroke-dash-array: none;
+}

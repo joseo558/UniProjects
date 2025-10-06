@@ -1,0 +1,52 @@
+[
+  {
+    "salesTerritoryID": 1,
+    "salesTerritoryRegion": "Australia",
+    "countryID": 1
+  },
+  {
+    "salesTerritoryID": 2,
+    "salesTerritoryRegion": "Canada",
+    "countryID": 2
+  },
+  {
+    "salesTerritoryID": 3,
+    "salesTerritoryRegion": "Central",
+    "countryID": 6
+  },
+  {
+    "salesTerritoryID": 4,
+    "salesTerritoryRegion": "France",
+    "countryID": 3
+  },
+  {
+    "salesTerritoryID": 5,
+    "salesTerritoryRegion": "Germany",
+    "countryID": 4
+  },
+  {
+    "salesTerritoryID": 6,
+    "salesTerritoryRegion": "Northeast",
+    "countryID": 6
+  },
+  {
+    "salesTerritoryID": 7,
+    "salesTerritoryRegion": "Northwest",
+    "countryID": 6
+  },
+  {
+    "salesTerritoryID": 8,
+    "salesTerritoryRegion": "Southeast",
+    "countryID": 6
+  },
+  {
+    "salesTerritoryID": 9,
+    "salesTerritoryRegion": "Southwest",
+    "countryID": 6
+  },
+  {
+    "salesTerritoryID": 10,
+    "salesTerritoryRegion": "United Kingdom",
+    "countryID": 5
+  }
+]

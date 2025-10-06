@@ -1,0 +1,326 @@
+[
+  {
+    "stateID": 1,
+    "stateCode": "AL",
+    "stateName": "Alabama",
+    "countryID": 6
+  },
+  {
+    "stateID": 2,
+    "stateCode": "AB",
+    "stateName": "Alberta",
+    "countryID": 2
+  },
+  {
+    "stateID": 3,
+    "stateCode": "AZ",
+    "stateName": "Arizona",
+    "countryID": 6
+  },
+  {
+    "stateID": 4,
+    "stateCode": "BY",
+    "stateName": "Bayern",
+    "countryID": 4
+  },
+  {
+    "stateID": 5,
+    "stateCode": "BE",
+    "stateName": "Berlin",
+    "countryID": 4
+  },
+  {
+    "stateID": 6,
+    "stateCode": "BB",
+    "stateName": "Brandenburg",
+    "countryID": 4
+  },
+  {
+    "stateID": 7,
+    "stateCode": "BC",
+    "stateName": "British Columbia",
+    "countryID": 2
+  },
+  {
+    "stateID": 8,
+    "stateCode": "CA",
+    "stateName": "California",
+    "countryID": 6
+  },
+  {
+    "stateID": 9,
+    "stateCode": "17",
+    "stateName": "Charente-Maritime",
+    "countryID": 3
+  },
+  {
+    "stateID": 10,
+    "stateCode": "ENG",
+    "stateName": "England",
+    "countryID": 5
+  },
+  {
+    "stateID": 11,
+    "stateCode": "91",
+    "stateName": "Essonne",
+    "countryID": 3
+  },
+  {
+    "stateID": 12,
+    "stateCode": "FL",
+    "stateName": "Florida",
+    "countryID": 6
+  },
+  {
+    "stateID": 13,
+    "stateCode": "31",
+    "stateName": "Garonne (Haute)",
+    "countryID": 3
+  },
+  {
+    "stateID": 14,
+    "stateCode": "GA",
+    "stateName": "Georgia",
+    "countryID": 6
+  },
+  {
+    "stateID": 15,
+    "stateCode": "HH",
+    "stateName": "Hamburg",
+    "countryID": 4
+  },
+  {
+    "stateID": 16,
+    "stateCode": "92",
+    "stateName": "Hauts de Seine",
+    "countryID": 3
+  },
+  {
+    "stateID": 17,
+    "stateCode": "HE",
+    "stateName": "Hessen",
+    "countryID": 4
+  },
+  {
+    "stateID": 18,
+    "stateCode": "IL",
+    "stateName": "Illinois",
+    "countryID": 6
+  },
+  {
+    "stateID": 19,
+    "stateCode": "KY",
+    "stateName": "Kentucky",
+    "countryID": 6
+  },
+  {
+    "stateID": 20,
+    "stateCode": "41",
+    "stateName": "Loir et Cher",
+    "countryID": 3
+  },
+  {
+    "stateID": 21,
+    "stateCode": "45",
+    "stateName": "Loiret",
+    "countryID": 3
+  },
+  {
+    "stateID": 22,
+    "stateCode": "MA",
+    "stateName": "Massachusetts",
+    "countryID": 6
+  },
+  {
+    "stateID": 23,
+    "stateCode": "MN",
+    "stateName": "Minnesota",
+    "countryID": 6
+  },
+  {
+    "stateID": 24,
+    "stateCode": "MS",
+    "stateName": "Mississippi",
+    "countryID": 6
+  },
+  {
+    "stateID": 25,
+    "stateCode": "MO",
+    "stateName": "Missouri",
+    "countryID": 6
+  },
+  {
+    "stateID": 26,
+    "stateCode": "MT",
+    "stateName": "Montana",
+    "countryID": 6
+  },
+  {
+    "stateID": 27,
+    "stateCode": "57",
+    "stateName": "Moselle",
+    "countryID": 3
+  },
+  {
+    "stateID": 28,
+    "stateCode": "NSW",
+    "stateName": "New South Wales",
+    "countryID": 1
+  },
+  {
+    "stateID": 29,
+    "stateCode": "NY",
+    "stateName": "New York",
+    "countryID": 6
+  },
+  {
+    "stateID": 30,
+    "stateCode": "59",
+    "stateName": "Nord",
+    "countryID": 3
+  },
+  {
+    "stateID": 31,
+    "stateCode": "NW",
+    "stateName": "Nordrhein-Westfalen",
+    "countryID": 4
+  },
+  {
+    "stateID": 32,
+    "stateCode": "NC",
+    "stateName": "North Carolina",
+    "countryID": 6
+  },
+  {
+    "stateID": 33,
+    "stateCode": "OH",
+    "stateName": "Ohio",
+    "countryID": 6
+  },
+  {
+    "stateID": 34,
+    "stateCode": "ON",
+    "stateName": "Ontario",
+    "countryID": 2
+  },
+  {
+    "stateID": 35,
+    "stateCode": "OR",
+    "stateName": "Oregon",
+    "countryID": 6
+  },
+  {
+    "stateID": 36,
+    "stateCode": "62",
+    "stateName": "Pas de Calais",
+    "countryID": 3
+  },
+  {
+    "stateID": 37,
+    "stateCode": "QLD",
+    "stateName": "Queensland",
+    "countryID": 1
+  },
+  {
+    "stateID": 38,
+    "stateCode": "SL",
+    "stateName": "Saarland",
+    "countryID": 4
+  },
+  {
+    "stateID": 39,
+    "stateCode": "75",
+    "stateName": "Seine (Paris)",
+    "countryID": 3
+  },
+  {
+    "stateID": 40,
+    "stateCode": "77",
+    "stateName": "Seine et Marne",
+    "countryID": 3
+  },
+  {
+    "stateID": 41,
+    "stateCode": "93",
+    "stateName": "Seine Saint Denis",
+    "countryID": 3
+  },
+  {
+    "stateID": 42,
+    "stateCode": "80",
+    "stateName": "Somme",
+    "countryID": 3
+  },
+  {
+    "stateID": 43,
+    "stateCode": "SA",
+    "stateName": "South Australia",
+    "countryID": 1
+  },
+  {
+    "stateID": 44,
+    "stateCode": "SC",
+    "stateName": "South Carolina",
+    "countryID": 6
+  },
+  {
+    "stateID": 45,
+    "stateCode": "TAS",
+    "stateName": "Tasmania",
+    "countryID": 1
+  },
+  {
+    "stateID": 46,
+    "stateCode": "TX",
+    "stateName": "Texas",
+    "countryID": 6
+  },
+  {
+    "stateID": 47,
+    "stateCode": "UT",
+    "stateName": "Utah",
+    "countryID": 6
+  },
+  {
+    "stateID": 48,
+    "stateCode": "94",
+    "stateName": "Val de Marne",
+    "countryID": 3
+  },
+  {
+    "stateID": 49,
+    "stateCode": "95",
+    "stateName": "Val d'Oise",
+    "countryID": 3
+  },
+  {
+    "stateID": 50,
+    "stateCode": "VIC",
+    "stateName": "Victoria",
+    "countryID": 1
+  },
+  {
+    "stateID": 51,
+    "stateCode": "VA",
+    "stateName": "Virginia",
+    "countryID": 6
+  },
+  {
+    "stateID": 52,
+    "stateCode": "WA",
+    "stateName": "Washington",
+    "countryID": 6
+  },
+  {
+    "stateID": 53,
+    "stateCode": "WY",
+    "stateName": "Wyoming",
+    "countryID": 6
+  },
+  {
+    "stateID": 54,
+    "stateCode": "78",
+    "stateName": "Yveline",
+    "countryID": 3
+  }
+]

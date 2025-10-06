@@ -1,0 +1,2168 @@
+[{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa4"
+  },
+  "cityID": 1,
+  "cityName": "Ballard",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa5"
+  },
+  "cityID": 2,
+  "cityName": "Barstow",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa6"
+  },
+  "cityID": 3,
+  "cityName": "Basingstoke Hants",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa7"
+  },
+  "cityID": 4,
+  "cityName": "Baytown",
+  "stateID": 46
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa8"
+  },
+  "cityID": 5,
+  "cityName": "Beaverton",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fa9"
+  },
+  "cityID": 6,
+  "cityName": "Bell Gardens",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1faa"
+  },
+  "cityID": 7,
+  "cityName": "Bellevue",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fab"
+  },
+  "cityID": 8,
+  "cityName": "Bellflower",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fac"
+  },
+  "cityID": 9,
+  "cityName": "Bellingham",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fad"
+  },
+  "cityID": 10,
+  "cityName": "Bendigo",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fae"
+  },
+  "cityID": 11,
+  "cityName": "Berkeley",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1faf"
+  },
+  "cityID": 12,
+  "cityName": "Berks",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb0"
+  },
+  "cityID": 13,
+  "cityName": "Berkshire",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb1"
+  },
+  "cityID": 14,
+  "cityName": "Berlin",
+  "stateID": 5
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb2"
+  },
+  "cityID": 15,
+  "cityName": "Beverly Hills",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb3"
+  },
+  "cityID": 16,
+  "cityName": "Billericay",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb4"
+  },
+  "cityID": 17,
+  "cityName": "Billings",
+  "stateID": 26
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb5"
+  },
+  "cityID": 18,
+  "cityName": "Biloxi",
+  "stateID": 24
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb6"
+  },
+  "cityID": 20,
+  "cityName": "Birmingham",
+  "stateID": 1
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb7"
+  },
+  "cityID": 19,
+  "cityName": "Birmingham",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb8"
+  },
+  "cityID": 21,
+  "cityName": "Bluffton",
+  "stateID": 44
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fb9"
+  },
+  "cityID": 22,
+  "cityName": "Bobigny",
+  "stateID": 41
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fba"
+  },
+  "cityID": 23,
+  "cityName": "Bonn",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fbb"
+  },
+  "cityID": 24,
+  "cityName": "Bothell",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fbc"
+  },
+  "cityID": 25,
+  "cityName": "Bottrop",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fbd"
+  },
+  "cityID": 26,
+  "cityName": "Boulogne-Billancourt",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fbe"
+  },
+  "cityID": 27,
+  "cityName": "Boulogne-sur-Mer",
+  "stateID": 36
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fbf"
+  },
+  "cityID": 28,
+  "cityName": "Bountiful",
+  "stateID": 47
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc0"
+  },
+  "cityID": 29,
+  "cityName": "Bracknell",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc1"
+  },
+  "cityID": 30,
+  "cityName": "Bradenton",
+  "stateID": 12
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc2"
+  },
+  "cityID": 31,
+  "cityName": "Braintree",
+  "stateID": 22
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc3"
+  },
+  "cityID": 32,
+  "cityName": "Branch",
+  "stateID": 23
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc4"
+  },
+  "cityID": 33,
+  "cityName": "Branson",
+  "stateID": 25
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc5"
+  },
+  "cityID": 34,
+  "cityName": "Braunschweig",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc6"
+  },
+  "cityID": 35,
+  "cityName": "Bremerton",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc7"
+  },
+  "cityID": 36,
+  "cityName": "Brisbane",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc8"
+  },
+  "cityID": 37,
+  "cityName": "Burbank",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fc9"
+  },
+  "cityID": 38,
+  "cityName": "Burien",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fca"
+  },
+  "cityID": 39,
+  "cityName": "Burlingame",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fcb"
+  },
+  "cityID": 40,
+  "cityName": "Burnaby",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fcc"
+  },
+  "cityID": 41,
+  "cityName": "Bury",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fcd"
+  },
+  "cityID": 42,
+  "cityName": "Byron",
+  "stateID": 14
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fce"
+  },
+  "cityID": 43,
+  "cityName": "Calgary",
+  "stateID": 2
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fcf"
+  },
+  "cityID": 44,
+  "cityName": "Caloundra",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd0"
+  },
+  "cityID": 45,
+  "cityName": "Camarillo",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd1"
+  },
+  "cityID": 46,
+  "cityName": "Cambridge",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd2"
+  },
+  "cityID": 47,
+  "cityName": "Campbellsville",
+  "stateID": 19
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd3"
+  },
+  "cityID": 48,
+  "cityName": "Canoga Park",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd4"
+  },
+  "cityID": 49,
+  "cityName": "Carol Stream",
+  "stateID": 18
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd5"
+  },
+  "cityID": 50,
+  "cityName": "Carrollton",
+  "stateID": 46
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd6"
+  },
+  "cityID": 51,
+  "cityName": "Carson",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd7"
+  },
+  "cityID": 52,
+  "cityName": "Casper",
+  "stateID": 53
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd8"
+  },
+  "cityID": 53,
+  "cityName": "Cedar City",
+  "stateID": 47
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fd9"
+  },
+  "cityID": 54,
+  "cityName": "Cedar Park",
+  "stateID": 46
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fda"
+  },
+  "cityID": 55,
+  "cityName": "Central Valley",
+  "stateID": 29
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fdb"
+  },
+  "cityID": 56,
+  "cityName": "Cergy",
+  "stateID": 49
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fdc"
+  },
+  "cityID": 57,
+  "cityName": "Cerritos",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fdd"
+  },
+  "cityID": 58,
+  "cityName": "Chalk Riber",
+  "stateID": 34
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fde"
+  },
+  "cityID": 59,
+  "cityName": "Chandler",
+  "stateID": 3
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fdf"
+  },
+  "cityID": 60,
+  "cityName": "Chantilly",
+  "stateID": 51
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe0"
+  },
+  "cityID": 61,
+  "cityName": "Charlotte",
+  "stateID": 32
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe1"
+  },
+  "cityID": 62,
+  "cityName": "Chatou",
+  "stateID": 54
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe2"
+  },
+  "cityID": 63,
+  "cityName": "Cheektowaga",
+  "stateID": 29
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe3"
+  },
+  "cityID": 64,
+  "cityName": "Chehalis",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe4"
+  },
+  "cityID": 65,
+  "cityName": "Cheltenham",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe5"
+  },
+  "cityID": 66,
+  "cityName": "Cheyenne",
+  "stateID": 53
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe6"
+  },
+  "cityID": 67,
+  "cityName": "Chicago",
+  "stateID": 18
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe7"
+  },
+  "cityID": 68,
+  "cityName": "Chula Vista",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe8"
+  },
+  "cityID": 69,
+  "cityName": "Cincinnati",
+  "stateID": 33
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fe9"
+  },
+  "cityID": 70,
+  "cityName": "Citrus Heights",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fea"
+  },
+  "cityID": 71,
+  "cityName": "City Of Commerce",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1feb"
+  },
+  "cityID": 72,
+  "cityName": "Clackamas",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fec"
+  },
+  "cityID": 73,
+  "cityName": "Clarkston",
+  "stateID": 14
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fed"
+  },
+  "cityID": 74,
+  "cityName": "Clay",
+  "stateID": 29
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fee"
+  },
+  "cityID": 75,
+  "cityName": "Clearwater",
+  "stateID": 12
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fef"
+  },
+  "cityID": 76,
+  "cityName": "Cliffside",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff0"
+  },
+  "cityID": 77,
+  "cityName": "Cloverdale",
+  "stateID": 43
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff1"
+  },
+  "cityID": 78,
+  "cityName": "Coffs Harbour",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff2"
+  },
+  "cityID": 79,
+  "cityName": "College Station",
+  "stateID": 46
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff3"
+  },
+  "cityID": 80,
+  "cityName": "Colma",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff4"
+  },
+  "cityID": 81,
+  "cityName": "Colombes",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff5"
+  },
+  "cityID": 82,
+  "cityName": "Colomiers",
+  "stateID": 13
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff6"
+  },
+  "cityID": 83,
+  "cityName": "Columbus",
+  "stateID": 33
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff7"
+  },
+  "cityID": 84,
+  "cityName": "Concord",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff8"
+  },
+  "cityID": 85,
+  "cityName": "Coronado",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ff9"
+  },
+  "cityID": 86,
+  "cityName": "Corvallis",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ffa"
+  },
+  "cityID": 87,
+  "cityName": "Courbevoie",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ffb"
+  },
+  "cityID": 88,
+  "cityName": "Cranbourne",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ffc"
+  },
+  "cityID": 89,
+  "cityName": "Croix",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ffd"
+  },
+  "cityID": 90,
+  "cityName": "Daly City",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1ffe"
+  },
+  "cityID": 91,
+  "cityName": "Darlinghurst",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e1fff"
+  },
+  "cityID": 92,
+  "cityName": "Darmstadt",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2000"
+  },
+  "cityID": 93,
+  "cityName": "Downey",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2001"
+  },
+  "cityID": 94,
+  "cityName": "Drancy",
+  "stateID": 41
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2002"
+  },
+  "cityID": 95,
+  "cityName": "Dresden",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2003"
+  },
+  "cityID": 96,
+  "cityName": "Duesseldorf",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2004"
+  },
+  "cityID": 97,
+  "cityName": "Dunkerque",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2005"
+  },
+  "cityID": 98,
+  "cityName": "East Brisbane",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2006"
+  },
+  "cityID": 99,
+  "cityName": "Edmonds",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2007"
+  },
+  "cityID": 100,
+  "cityName": "Eilenburg",
+  "stateID": 6
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2008"
+  },
+  "cityID": 101,
+  "cityName": "El Cajon",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2009"
+  },
+  "cityID": 102,
+  "cityName": "Erlangen",
+  "stateID": 4
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200a"
+  },
+  "cityID": 103,
+  "cityName": "Esher-Molesey",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200b"
+  },
+  "cityID": 104,
+  "cityName": "Essen",
+  "stateID": 15
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200c"
+  },
+  "cityID": 105,
+  "cityName": "Everett",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200d"
+  },
+  "cityID": 106,
+  "cityName": "Findon",
+  "stateID": 43
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200e"
+  },
+  "cityID": 107,
+  "cityName": "Frankfurt am Main",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e200f"
+  },
+  "cityID": 108,
+  "cityName": "Fremont",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2010"
+  },
+  "cityID": 109,
+  "cityName": "Gateshead",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2011"
+  },
+  "cityID": 110,
+  "cityName": "Geelong",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2012"
+  },
+  "cityID": 111,
+  "cityName": "Glendale",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2013"
+  },
+  "cityID": 112,
+  "cityName": "Gloucestershire",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2014"
+  },
+  "cityID": 113,
+  "cityName": "Gold Coast",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2015"
+  },
+  "cityID": 114,
+  "cityName": "Goulburn",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2016"
+  },
+  "cityID": 115,
+  "cityName": "Grevenbroich",
+  "stateID": 4
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2017"
+  },
+  "cityID": 116,
+  "cityName": "Grossmont",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2018"
+  },
+  "cityID": 117,
+  "cityName": "Hamburg",
+  "stateID": 15
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2019"
+  },
+  "cityID": 118,
+  "cityName": "Haney",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201a"
+  },
+  "cityID": 119,
+  "cityName": "Hannover",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201b"
+  },
+  "cityID": 120,
+  "cityName": "Hawthorne",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201c"
+  },
+  "cityID": 121,
+  "cityName": "Hervey Bay",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201d"
+  },
+  "cityID": 122,
+  "cityName": "High Wycombe",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201e"
+  },
+  "cityID": 123,
+  "cityName": "Hobart",
+  "stateID": 45
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e201f"
+  },
+  "cityID": 124,
+  "cityName": "Hof",
+  "stateID": 4
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2020"
+  },
+  "cityID": 125,
+  "cityName": "Imperial Beach",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2021"
+  },
+  "cityID": 126,
+  "cityName": "Ingolstadt",
+  "stateID": 4
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2022"
+  },
+  "cityID": 127,
+  "cityName": "Issaquah",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2023"
+  },
+  "cityID": 128,
+  "cityName": "Kassel",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2024"
+  },
+  "cityID": 129,
+  "cityName": "Kiel",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2025"
+  },
+  "cityID": 130,
+  "cityName": "Kirkby",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2026"
+  },
+  "cityID": 131,
+  "cityName": "Kirkland",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2027"
+  },
+  "cityID": 132,
+  "cityName": "La Jolla",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2028"
+  },
+  "cityID": 133,
+  "cityName": "Lake Oswego",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2029"
+  },
+  "cityID": 134,
+  "cityName": "Lakewood",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202a"
+  },
+  "cityID": 135,
+  "cityName": "Lancaster",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202b"
+  },
+  "cityID": 136,
+  "cityName": "Lane Cove",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202c"
+  },
+  "cityID": 137,
+  "cityName": "Langford",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202d"
+  },
+  "cityID": 138,
+  "cityName": "Langley",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202e"
+  },
+  "cityID": 139,
+  "cityName": "Lavender Bay",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e202f"
+  },
+  "cityID": 140,
+  "cityName": "Lebanon",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2030"
+  },
+  "cityID": 141,
+  "cityName": "Leeds",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2031"
+  },
+  "cityID": 142,
+  "cityName": "Leipzig",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2032"
+  },
+  "cityID": 143,
+  "cityName": "Lemon Grove",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2033"
+  },
+  "cityID": 144,
+  "cityName": "Les Ulis",
+  "stateID": 11
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2034"
+  },
+  "cityID": 145,
+  "cityName": "Lieusaint",
+  "stateID": 40
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2035"
+  },
+  "cityID": 146,
+  "cityName": "Lille",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2036"
+  },
+  "cityID": 147,
+  "cityName": "Lincoln Acres",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2037"
+  },
+  "cityID": 148,
+  "cityName": "Liverpool",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2038"
+  },
+  "cityID": 149,
+  "cityName": "London",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2039"
+  },
+  "cityID": 150,
+  "cityName": "Long Beach",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203a"
+  },
+  "cityID": 151,
+  "cityName": "Los Angeles",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203b"
+  },
+  "cityID": 152,
+  "cityName": "Lynnwood",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203c"
+  },
+  "cityID": 156,
+  "cityName": "Maidenhead",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203d"
+  },
+  "cityID": 157,
+  "cityName": "Malabar",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203e"
+  },
+  "cityID": 158,
+  "cityName": "Marysville",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e203f"
+  },
+  "cityID": 159,
+  "cityName": "Matraville",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2040"
+  },
+  "cityID": 160,
+  "cityName": "Melbourne",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2041"
+  },
+  "cityID": 161,
+  "cityName": "Melton",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2042"
+  },
+  "cityID": 162,
+  "cityName": "Metchosin",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2043"
+  },
+  "cityID": 163,
+  "cityName": "Metz",
+  "stateID": 27
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2044"
+  },
+  "cityID": 164,
+  "cityName": "Mill Valley",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2045"
+  },
+  "cityID": 165,
+  "cityName": "Milsons Point",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2046"
+  },
+  "cityID": 166,
+  "cityName": "Milton Keynes",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2047"
+  },
+  "cityID": 167,
+  "cityName": "Milwaukie",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2048"
+  },
+  "cityID": 168,
+  "cityName": "Morangis",
+  "stateID": 11
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2049"
+  },
+  "cityID": 153,
+  "cityName": "Mühlheim",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204a"
+  },
+  "cityID": 154,
+  "cityName": "München",
+  "stateID": 4
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204b"
+  },
+  "cityID": 155,
+  "cityName": "Münster",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204c"
+  },
+  "cityID": 169,
+  "cityName": "N. Vancouver",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204d"
+  },
+  "cityID": 170,
+  "cityName": "National City",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204e"
+  },
+  "cityID": 171,
+  "cityName": "Neunkirchen",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e204f"
+  },
+  "cityID": 172,
+  "cityName": "Newcastle",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2050"
+  },
+  "cityID": 173,
+  "cityName": "Newcastle upon Tyne",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2051"
+  },
+  "cityID": 174,
+  "cityName": "Newport Beach",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2052"
+  },
+  "cityID": 175,
+  "cityName": "Newton",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2053"
+  },
+  "cityID": 176,
+  "cityName": "North Ryde",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2054"
+  },
+  "cityID": 177,
+  "cityName": "North Sydney",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2055"
+  },
+  "cityID": 178,
+  "cityName": "Novato",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2056"
+  },
+  "cityID": 179,
+  "cityName": "Oak Bay",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2057"
+  },
+  "cityID": 180,
+  "cityName": "Oakland",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2058"
+  },
+  "cityID": 181,
+  "cityName": "Offenbach",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2059"
+  },
+  "cityID": 182,
+  "cityName": "Olympia",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205a"
+  },
+  "cityID": 183,
+  "cityName": "Oregon City",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205b"
+  },
+  "cityID": 184,
+  "cityName": "Orleans",
+  "stateID": 21
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205c"
+  },
+  "cityID": 185,
+  "cityName": "Orly",
+  "stateID": 48
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205d"
+  },
+  "cityID": 186,
+  "cityName": "Oxford",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205e"
+  },
+  "cityID": 187,
+  "cityName": "Oxon",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e205f"
+  },
+  "cityID": 188,
+  "cityName": "Paderborn",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2060"
+  },
+  "cityID": 189,
+  "cityName": "Palo Alto",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2061"
+  },
+  "cityID": 190,
+  "cityName": "Pantin",
+  "stateID": 41
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2062"
+  },
+  "cityID": 191,
+  "cityName": "Paris",
+  "stateID": 39
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2063"
+  },
+  "cityID": 192,
+  "cityName": "Paris La Defense",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2064"
+  },
+  "cityID": 193,
+  "cityName": "Perth",
+  "stateID": 43
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2065"
+  },
+  "cityID": 194,
+  "cityName": "Peterborough",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2066"
+  },
+  "cityID": 195,
+  "cityName": "Poing",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2067"
+  },
+  "cityID": 196,
+  "cityName": "Port Hammond",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2068"
+  },
+  "cityID": 197,
+  "cityName": "Port Macquarie",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2069"
+  },
+  "cityID": 198,
+  "cityName": "Port Orchard",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206a"
+  },
+  "cityID": 199,
+  "cityName": "Portland",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206b"
+  },
+  "cityID": 200,
+  "cityName": "Puyallup",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206c"
+  },
+  "cityID": 201,
+  "cityName": "Reading",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206d"
+  },
+  "cityID": 202,
+  "cityName": "Redmond",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206e"
+  },
+  "cityID": 203,
+  "cityName": "Redwood City",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e206f"
+  },
+  "cityID": 204,
+  "cityName": "Renton",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2070"
+  },
+  "cityID": 205,
+  "cityName": "Rhodes",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2071"
+  },
+  "cityID": 206,
+  "cityName": "Rockhampton",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2072"
+  },
+  "cityID": 207,
+  "cityName": "Roissy en Brie",
+  "stateID": 40
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2073"
+  },
+  "cityID": 208,
+  "cityName": "Roncq",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2074"
+  },
+  "cityID": 209,
+  "cityName": "Roubaix",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2075"
+  },
+  "cityID": 210,
+  "cityName": "Royal Oak",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2076"
+  },
+  "cityID": 211,
+  "cityName": "Runcorn",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2077"
+  },
+  "cityID": 213,
+  "cityName": "Saarbrücken",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2078"
+  },
+  "cityID": 214,
+  "cityName": "Saarlouis",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2079"
+  },
+  "cityID": 215,
+  "cityName": "Saint Germain en Laye",
+  "stateID": 54
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207a"
+  },
+  "cityID": 217,
+  "cityName": "Saint Ouen",
+  "stateID": 9
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207b"
+  },
+  "cityID": 216,
+  "cityName": "Saint Ouen",
+  "stateID": 20
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207c"
+  },
+  "cityID": 218,
+  "cityName": "Saint Ouen",
+  "stateID": 42
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207d"
+  },
+  "cityID": 219,
+  "cityName": "Saint-Denis",
+  "stateID": 41
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207e"
+  },
+  "cityID": 220,
+  "cityName": "Salem",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e207f"
+  },
+  "cityID": 221,
+  "cityName": "Salzgitter",
+  "stateID": 17
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2080"
+  },
+  "cityID": 222,
+  "cityName": "San Carlos",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2081"
+  },
+  "cityID": 223,
+  "cityName": "San Diego",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2082"
+  },
+  "cityID": 224,
+  "cityName": "San Francisco",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2083"
+  },
+  "cityID": 225,
+  "cityName": "San Gabriel",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2084"
+  },
+  "cityID": 226,
+  "cityName": "Santa Cruz",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2085"
+  },
+  "cityID": 227,
+  "cityName": "Santa Monica",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2086"
+  },
+  "cityID": 228,
+  "cityName": "Seaford",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2087"
+  },
+  "cityID": 229,
+  "cityName": "Seattle",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2088"
+  },
+  "cityID": 230,
+  "cityName": "Sedro Woolley",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2089"
+  },
+  "cityID": 212,
+  "cityName": "Sèvres",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208a"
+  },
+  "cityID": 231,
+  "cityName": "Shawnee",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208b"
+  },
+  "cityID": 232,
+  "cityName": "Silverwater",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208c"
+  },
+  "cityID": 233,
+  "cityName": "Solingen",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208d"
+  },
+  "cityID": 234,
+  "cityName": "Sooke",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208e"
+  },
+  "cityID": 235,
+  "cityName": "South Melbourne",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e208f"
+  },
+  "cityID": 236,
+  "cityName": "Spokane",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2090"
+  },
+  "cityID": 237,
+  "cityName": "Spring Valley",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2091"
+  },
+  "cityID": 238,
+  "cityName": "Springwood",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2092"
+  },
+  "cityID": 239,
+  "cityName": "St. Leonards",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2093"
+  },
+  "cityID": 240,
+  "cityName": "Stoke-on-Trent",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2094"
+  },
+  "cityID": 241,
+  "cityName": "Stuttgart",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2095"
+  },
+  "cityID": 242,
+  "cityName": "Sulzbach Taunus",
+  "stateID": 38
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2096"
+  },
+  "cityID": 243,
+  "cityName": "Sunbury",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2097"
+  },
+  "cityID": 244,
+  "cityName": "Suresnes",
+  "stateID": 16
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2098"
+  },
+  "cityID": 245,
+  "cityName": "Sydney",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e2099"
+  },
+  "cityID": 246,
+  "cityName": "Tacoma",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209a"
+  },
+  "cityID": 247,
+  "cityName": "Torrance",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209b"
+  },
+  "cityID": 248,
+  "cityName": "Townsville",
+  "stateID": 37
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209c"
+  },
+  "cityID": 249,
+  "cityName": "Tremblay-en-France",
+  "stateID": 41
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209d"
+  },
+  "cityID": 250,
+  "cityName": "Vancouver",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209e"
+  },
+  "cityID": 251,
+  "cityName": "Verrieres Le Buisson",
+  "stateID": 11
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e209f"
+  },
+  "cityID": 252,
+  "cityName": "Versailles",
+  "stateID": 54
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a0"
+  },
+  "cityID": 253,
+  "cityName": "Victoria",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a1"
+  },
+  "cityID": 254,
+  "cityName": "Villeneuve-d'Ascq",
+  "stateID": 30
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a2"
+  },
+  "cityID": 255,
+  "cityName": "W. Linn",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a3"
+  },
+  "cityID": 256,
+  "cityName": "W. York",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a4"
+  },
+  "cityID": 257,
+  "cityName": "Walla Walla",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a5"
+  },
+  "cityID": 258,
+  "cityName": "Warrington",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a6"
+  },
+  "cityID": 259,
+  "cityName": "Warrnambool",
+  "stateID": 50
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a7"
+  },
+  "cityID": 260,
+  "cityName": "Watford",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a8"
+  },
+  "cityID": 261,
+  "cityName": "Werne",
+  "stateID": 31
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20a9"
+  },
+  "cityID": 262,
+  "cityName": "West Covina",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20aa"
+  },
+  "cityID": 263,
+  "cityName": "West Sussex",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20ab"
+  },
+  "cityID": 264,
+  "cityName": "Westminster",
+  "stateID": 7
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20ac"
+  },
+  "cityID": 265,
+  "cityName": "Wokingham",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20ad"
+  },
+  "cityID": 266,
+  "cityName": "Wollongong",
+  "stateID": 28
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20ae"
+  },
+  "cityID": 267,
+  "cityName": "Woodburn",
+  "stateID": 35
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20af"
+  },
+  "cityID": 268,
+  "cityName": "Woodland Hills",
+  "stateID": 8
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20b0"
+  },
+  "cityID": 269,
+  "cityName": "Woolston",
+  "stateID": 10
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20b1"
+  },
+  "cityID": 270,
+  "cityName": "Yakima",
+  "stateID": 52
+},
+{
+  "_id": {
+    "$oid": "678abb2763474e0f003e20b2"
+  },
+  "cityID": 271,
+  "cityName": "York",
+  "stateID": 10
+}]
